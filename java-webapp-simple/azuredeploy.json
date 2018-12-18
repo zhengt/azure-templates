@@ -54,7 +54,7 @@
     {
       "type": "Microsoft.Web/serverfarms",
       "sku": {
-        "name": "B1"
+        "name": "S1"
       },
       "kind": "app",
       "name": "[variables('servicePlanName')]",
@@ -122,7 +122,7 @@
     },
     {
       "type": "Microsoft.DBforMySQL/servers",
-      "apiVersion": "2017-04-30-preview",
+      "apiVersion": "2017-12-01",
       "location": "[parameters('location')]",
       "name": "[variables('mySqlServerName')]",
       "properties": {
@@ -133,7 +133,7 @@
       },
       "sku": {
         "name": "MYSQLB50",
-        "tier": "Basic",
+        "tier": "GP_Gen5_2",
         "capacity": 50
       },
       "resources": [
