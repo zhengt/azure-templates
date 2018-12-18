@@ -3,28 +3,28 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "jenkinsVMAdminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "zhengt"
     },
     "jenkinsVMAdminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Bri^5dge2000"
     },
     "jenkinsDnsPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "tianguizheng-jenkins"
     },
     "clientId": {
-      "value": "GEN-UNIQUE"
+      "value": "377922ab-ae41-4b09-a8da-52ef2e0e5660"
     },
     "clientSecret": {
-      "value": "GEN-PASSWORD"
+      "value": "ddlDE6TGT3+DCpToEyWwd2jZYhqSqTU/cOCw/b4EepE="
     },
     "appDnsPrefix": {
-      "value": "GEN-UNIQUE-16"
+      "value": "tianguizheng-javawebapp"
     },
     "mySqlAdminLogin": {
-      "value": "GEN-UNIQUE-12"
+      "value": "zhengt"
     },
     "mySqlAdminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "Bri^5dge2000"
     }
   }
 }
