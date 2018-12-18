@@ -9,7 +9,7 @@
       "value": "Bri^5dge2000"
     },
     "jenkinsDnsPrefix": {
-      "value": "tianguizheng-jenkins"
+      "value": "zhengtjenkins"
     },
     "clientId": {
       "value": "377922ab-ae41-4b09-a8da-52ef2e0e5660"
@@ -18,7 +18,7 @@
       "value": "ddlDE6TGT3+DCpToEyWwd2jZYhqSqTU/cOCw/b4EepE="
     },
     "appDnsPrefix": {
-      "value": "tianguizheng-javawebapp"
+      "value": "zhengtwebapp"
     },
     "mySqlAdminLogin": {
       "value": "zhengt"
