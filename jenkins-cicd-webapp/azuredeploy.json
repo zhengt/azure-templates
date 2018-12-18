@@ -112,7 +112,7 @@
     {
       "type": "Microsoft.Storage/storageAccounts",
       "sku": {
-        "name": "Standard_RAGRS"
+        "name": "Standard_LRS"
       },
       "kind": "Storage",
       "name": "[variables('storageAccountName')]",
@@ -181,7 +181,7 @@
       "kind": "java",
       "name": "[variables('appInsightsName')]",
       "apiVersion": "2015-05-01",
-      "location": "eastus",
+      "location": "canadaeast",
       "tags": {
         "[concat('hidden-link:', resourceGroup().id, '/providers/Microsoft.Web/sites/', variables('webAppName'))]": "Resource"
       },
