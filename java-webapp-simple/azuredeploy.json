@@ -87,7 +87,8 @@
           ],
           "properties": {
             "javaVersion": "1.8",
-            "linuxRuntime": "tomcat 8.5-jre8"
+            "javaContainer": "TOMCAT",
+            "javaContainerVersion": "8.5"
           }
         },
         {
